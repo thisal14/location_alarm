@@ -12,9 +12,7 @@ A Flutter-based mobile application that allows users to set a destination and re
 - **Location-based Alarm:** The app triggers an alarm when the user is within a specified distance of the destination.
 - **Customizable Alarm:** Users can customize the alarm settings, including the alert distance, vibration, and sound.
 
-## Screenshots
 
-*(You can add screenshots of your app here)*
 
 ## Dependencies
 
